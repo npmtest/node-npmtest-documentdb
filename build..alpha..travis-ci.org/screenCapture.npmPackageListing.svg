@@ -1,0 +1,55 @@
+<svg height="830" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="830" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 06:57:18 +0000   776847 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 06:57:18 +0000     1726 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 06:57:18 +0000     1105 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 06:57:18 +0000     1152 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 06:57:18 +0000     3886 bytes  lib/auth.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 06:57:18 +0000    19838 bytes  lib/base.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 06:57:18 +0000     7653 bytes  lib/constants.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 06:57:18 +0000   126379 bytes  lib/documentclient.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 06:57:18 +0000    14589 bytes  lib/documents.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 06:57:18 +0000     3778 bytes  lib/endpointDiscoveryRetryPolicy.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 06:57:18 +0000    14165 bytes  lib/globalEndpointManager.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 06:57:18 +0000     4243 bytes  lib/hash/consistentHashRing.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 06:57:18 +0000     5742 bytes  lib/hash/hashPartitionResolver.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 06:57:18 +0000     5819 bytes  lib/hash/murmurHash.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 06:57:18 +0000     1697 bytes  lib/index.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 06:57:18 +0000     2489 bytes  lib/platform.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 06:57:18 +0000     6255 bytes  lib/queryExecutionContext/aggregators.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 06:57:18 +0000     7800 bytes  lib/queryExecutionContext/defaultQueryExecutionC\</tspan>
+<tspan x="10" y="314">ontext.js</tspan>
+<tspan x="10" y="330"> 18.  2017-04-22 06:57:18 +0000    10717 bytes  lib/queryExecutionContext/documentProducer.js</tspan>
+<tspan x="10" y="346"> 19.  2017-04-22 06:57:18 +0000    11683 bytes  lib/queryExecutionContext/endpointComponent.js</tspan>
+<tspan x="10" y="362"> 20.  2017-04-22 06:57:18 +0000    15851 bytes  lib/queryExecutionContext/parallelQueryExecution\</tspan>
+<tspan x="10" y="378">Context.js</tspan>
+<tspan x="10" y="394"> 21.  2017-04-22 06:57:18 +0000     3319 bytes  lib/queryExecutionContext/partitionedQueryExecut\</tspan>
+<tspan x="10" y="410">ionContextInfoParser.js</tspan>
+<tspan x="10" y="426"> 22.  2017-04-22 06:57:18 +0000     5479 bytes  lib/queryExecutionContext/pipelinedQueryExecutio\</tspan>
+<tspan x="10" y="442">nContext.js</tspan>
+<tspan x="10" y="458"> 23.  2017-04-22 06:57:18 +0000     8018 bytes  lib/queryExecutionContext/proxyQueryExecutionCon\</tspan>
+<tspan x="10" y="474">text.js</tspan>
+<tspan x="10" y="490"> 24.  2017-04-22 06:57:18 +0000     7957 bytes  lib/queryIterator.js</tspan>
+<tspan x="10" y="506"> 25.  2017-04-22 06:57:18 +0000    12492 bytes  lib/range.js</tspan>
+<tspan x="10" y="522"> 26.  2017-04-22 06:57:18 +0000     7877 bytes  lib/request.js</tspan>
+<tspan x="10" y="538"> 27.  2017-04-22 06:57:18 +0000     4366 bytes  lib/resourceThrottleRetryPolicy.js</tspan>
+<tspan x="10" y="554"> 28.  2017-04-22 06:57:18 +0000     3018 bytes  lib/retryOptions.js</tspan>
+<tspan x="10" y="570"> 29.  2017-04-22 06:57:18 +0000     6252 bytes  lib/retryUtility.js</tspan>
+<tspan x="10" y="586"> 30.  2017-04-22 06:57:18 +0000    11415 bytes  lib/routing/inMemoryCollectionRoutingMap.js</tspan>
+<tspan x="10" y="602"> 31.  2017-04-22 06:57:18 +0000     5460 bytes  lib/routing/partitionKeyRangeCache.js</tspan>
+<tspan x="10" y="618"> 32.  2017-04-22 06:57:18 +0000     7813 bytes  lib/routing/smartRoutingMapProvider.js</tspan>
+<tspan x="10" y="634"> 33.  2017-04-22 06:57:18 +0000     2541 bytes  package.json</tspan>
+<tspan x="10" y="650"> 34.  2017-04-22 06:57:18 +0000    52037 bytes  typings/globals/grunt/index.d.ts</tspan>
+<tspan x="10" y="666"> 35.  2017-04-22 06:57:18 +0000      376 bytes  typings/globals/grunt/typings.json</tspan>
+<tspan x="10" y="682"> 36.  2017-04-22 06:57:18 +0000     7002 bytes  typings/globals/mocha/index.d.ts</tspan>
+<tspan x="10" y="698"> 37.  2017-04-22 06:57:18 +0000      376 bytes  typings/globals/mocha/typings.json</tspan>
+<tspan x="10" y="714"> 38.  2017-04-22 06:57:18 +0000   185436 bytes  typings/globals/node/index.d.ts</tspan>
+<tspan x="10" y="730"> 39.  2017-04-22 06:57:18 +0000      373 bytes  typings/globals/node/typings.json</tspan>
+<tspan x="10" y="746"> 40.  2017-04-22 06:57:18 +0000      517 bytes  typings/globals/semaphore/index.d.ts</tspan>
+<tspan x="10" y="762"> 41.  2017-04-22 06:57:18 +0000      396 bytes  typings/globals/semaphore/typings.json</tspan>
+<tspan x="10" y="778"> 42.  2017-04-22 06:57:18 +0000   177151 bytes  typings/globals/underscore/index.d.ts</tspan>
+<tspan x="10" y="794"> 43.  2017-04-22 06:57:18 +0000      401 bytes  typings/globals/underscore/typings.json</tspan>
+<tspan x="10" y="810"> 44.  2017-04-22 06:57:18 +0000      208 bytes  typings/index.d.ts</tspan>
+</text>
+</svg>
